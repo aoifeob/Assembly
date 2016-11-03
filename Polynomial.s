@@ -1,4 +1,4 @@
-	AREA	FirstProgram, CODE, READONLY
+	AREA	Polynomial, CODE, READONLY
 	IMPORT	main
 	EXPORT	start
 
