@@ -1,4 +1,4 @@
-	AREA	SetAndCleared, CODE, READONLY
+	AREA	SetAndClearedCount, CODE, READONLY
 	IMPORT	main
 	EXPORT	start
 
